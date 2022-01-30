@@ -1,8 +1,10 @@
 # [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) 
 # Python Programming Assignments
-
-✔ exercise1 완료
-
+## 정소윤의 과제진행상황  
+### ✔ exercise1 완료
+텐서 연산, 특히 브로드캐스팅에 대해 헷갈리던 것이 정리됐음<br>
+직접 cost function과 gradient function 계산해봄 <br>
+<br>
 ![](machinelearning.jpg)
 
 This repositry contains the python versions of the programming assignments for the [Machine Learning online class](https://www.coursera.org/learn/machine-learning) taught by Professor Andrew Ng. This is perhaps the most popular introductory online machine learning class. In addition to being popular, it is also one of the best Machine learning classes any interested student can take to get started with machine learning. An unfortunate aspect of this class is that the programming assignments are in MATLAB or OCTAVE, probably because this class was made before python became the go-to language in machine learning.
