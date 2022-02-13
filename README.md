@@ -4,6 +4,9 @@
 ### ✔ exercise1 완료
 텐서 연산, 특히 브로드캐스팅에 대해 헷갈리던 것이 정리됐음<br>
 직접 cost function과 gradient function 계산해봄 <br>
+### ✔ exercise2 완료
+logistic regression의 cost function 과 gradient function 계산해봄 <br>
+그리고 regularization 적용한 식도 계산해봄 <br>
 <br>
 ![](machinelearning.jpg)
 
