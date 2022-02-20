@@ -11,6 +11,9 @@ logistic regression의 cost function 과 gradient function 계산해봄 <br>
 neural network의 forward propagation 구현해봄<br>
 파라미터랑 이전 layer의 데이터랑 곱한 후에 sigmoid 함수를 취해주기<br>
 이전 layer의 데이터 앞에 x0(==1)을 추가하기 위해 numpy의 concatenate 함수 사용<br>
+### ✔ exercise4 완료
+FP와 BP 구현해봄<br>
+bias unit을 빼먹지 말자<br>
 <br>
 ![](machinelearning.jpg)
 
