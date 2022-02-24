@@ -14,6 +14,12 @@ neural network의 forward propagation 구현해봄<br>
 ### ✔ exercise4 완료
 FP와 BP 구현해봄<br>
 bias unit을 빼먹지 말자<br>
+### ✔ exercise5 완료
+linear regression의 regularization 한 costfunction과 gradient 계산해봄<br>
+learning curve도 그려봄<br>
+일단 파라미터를 찾아주고 error_train과 error_validation을 계산해 과대적합, 과소적합 판단<br>
+error_train과 error_validation을 할 때 lambda를 0으로 해준다는 것을 잊지 말자<br>
+error_validation을 이용해 train_examples의 수와 regularization parameter, degree of polynomial 정하는 과정 경험<br>
 <br>
 ![](machinelearning.jpg)
 
